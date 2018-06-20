@@ -1,4 +1,4 @@
-#人生05 iOS版 App 
+====人生05 iOS版 App 
 * 目前只支持浏览电影列表
 * 快速查看最新电影/电影链接
 
@@ -9,5 +9,5 @@
     * 详情见Podfile
     
 运行Demo：
-![](5.png)
+![](https://github.com/Karblue/Rs05App/blob/master/demo.gif)
     
